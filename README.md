@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Ujjawal Prasad! </h1>  
+<h1 align="left">Hi, I'm Ujjawal Prasad! </h1>  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ujjawal-prasad/" title="LinkedIn Profile">
     <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
   </a>
@@ -60,13 +60,13 @@
 
 <br>  
 
-<div align="center">  
+<div align="left">  
   <a href="https://github.com/nasa/ExoMiner" title="ExoMiner (NASA)">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nasa&repo=ExoMiner&theme=react&border_color=61dafb&border_radius=10">
   </a>  
 </div>  
 
-<p align="center">  
+<p align="left">  
   ExoMiner (NASA): Contributed to the development of a deep learning model for exoplanet classification, enhancing accuracy by integrating neural architectures and data preprocessing pipelines.  
 </p>  
 
