@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ujjawal Prasad 👋</h1>  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ujjawal-prasad/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ujjawal-prasad/">🔗 LinkedIn</a>
 </p>  
 
 ---
@@ -28,6 +28,9 @@
 #### Full-Stack Development  
 <img src="https://skillicons.dev/icons?i=nextjs,redux,docker,postgres" />  
 
+#### Other Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,aws" />  
+
 </div>  
 
 ---
@@ -46,6 +49,12 @@
 
 <br/><br/><br/><br/><br/><br/>  
 
+<p align="center">  
+  🔹 **ExoMiner (NASA):** Contributed to deep learning model development for exoplanet classification using neural networks.  
+  <br>  
+  🔹 **Facial Expression Detection (FE):** Built and trained a computer vision model for real-time emotion recognition.  
+</p>  
+
 <div width="100%" align="center">  
   <a align="left" href="https://github.com/Sanjana-SKS/MaraHackathon25" title="MaraHackathon25">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-SKS&repo=MaraHackathon25&theme=react&border_color=61dafb&border_radius=10">
@@ -53,6 +62,10 @@
 </div>  
 
 <br/><br/><br/><br/><br/><br/>  
+
+<p align="center">  
+  🔹 **MaraHackathon25:** Collaborated in a team hackathon project, developing full-stack features for data-driven solutions.  
+</p>  
 
 <h4 align="center">  
   <a href="https://github.com/ujjawal-prasad?tab=repositories" title="Show More">🔎 Show More 🔍</a>  
@@ -66,3 +79,19 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ujjawal-prasad&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&border_radius=10" />  
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawal-prasad&theme=react&hide_border=true&background=0D1117&border_radius=10"/>  
 </div>  
+
+---
+
+### 📈 Activity Graph  
+
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal-prasad&theme=react-dark&hide_border=true&bg_color=0D1117&border_radius=10&color=61dafb&line=61dafb&point=ffffff"/>  
+</div>  
+
+---
+
+### 📄 Resume  
+
+<p align="center">  
+📌 <a href="https://your-resume-link.com" target="_blank">View My Resume</a>  
+</p>  
