@@ -97,7 +97,7 @@
 <br>  
 
 <h4 align="center">  
-  <a href="https://github.com/ujjawal-prasad?tab=repositories" title="Show More">🔎 Show More 🔍</a>  
+  <a href="https://github.com/8wali8?tab=repositories" title="Show More">🔎 Show More 🔍</a>  
 </h4>  
 
 ---
@@ -105,8 +105,8 @@
 ### GitHub Stats  
 
 <div align="center">  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ujjawal-prasad&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&border_radius=10" />  
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawal-prasad&theme=react&hide_border=true&background=0D1117&border_radius=10"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=8wali8&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&border_radius=10" />  
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=8wali8&theme=react&hide_border=true&background=0D1117&border_radius=10"/>  
 </div>  
 
 ---
@@ -114,5 +114,5 @@
 ### Activity Graph  
 
 <div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal-prasad&theme=react-dark&hide_border=true&bg_color=0D1117&border_radius=10&color=61dafb&line=61dafb&point=ffffff"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8wali8&theme=react-dark&hide_border=true&bg_color=0D1117&border_radius=10&color=61dafb&line=61dafb&point=ffffff"/>  
 </div>  
