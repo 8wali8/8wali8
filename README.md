@@ -1,7 +1,7 @@
 <h1 align="left">
   Hi, I'm Ujjawal Prasad!&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ujjawal-prasad/" title="LinkedIn Profile">
-    <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+    <img width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
   </a>
 </h1>
 
