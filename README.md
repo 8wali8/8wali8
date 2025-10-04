@@ -67,7 +67,7 @@
 </div>  
 
 <p align="center">  
-  ExoMiner (NASA): Contributed to the development of a deep learning model for **exoplanet classification**, enhancing accuracy by integrating neural architectures and data preprocessing pipelines.  
+  ExoMiner (NASA): Contributed to the development of a deep learning model for exoplanet classification, enhancing accuracy by integrating neural architectures and data preprocessing pipelines.  
 </p>  
 
 <br>  
