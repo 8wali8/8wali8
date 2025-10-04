@@ -2,22 +2,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjawal-prasad/" title="LinkedIn Profile">
-    <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+    <img width="90" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 Computer Science & Statistics student at Purdue University (Class of 2027)  
-- 🔎 Actively seeking **Summer 2026 Software Engineering Internships**  
-- 🚀 Passionate about **AI/ML, backend systems, and scalable applications**  
-- 🌱 Currently learning **Rust, React, and advanced machine learning**  
-- 🤝 Open to collaborations on impactful projects in **AI, full-stack dev, and data engineering**  
+### About Me  
+-  Computer Science & Statistics student at Purdue University (Class of 2027)  
+-  Actively seeking **Summer 2026 Software Engineering Internships**  
+-  Passionate about **AI/ML, backend systems, and scalable applications**  
+-  Currently learning **Rust, React, and advanced machine learning**  
+-  Open to collaborations on impactful projects in **AI, full-stack dev, and data engineering**  
 
 ---
 
-### 🛠️ Languages & Tools  
+###  Languages & Tools  
 
 <div align="center">  
 
