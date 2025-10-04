@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Ujjawal Prasad 👋</h1>  
+<h1 align="center">Hi, I'm Ujjawal Prasad </h1>  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ujjawal-prasad/">🔗 LinkedIn</a>
-</p>  
+  <a href="https://www.linkedin.com/in/ujjawal-prasad/" title="LinkedIn Profile">
+    <img width="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
