@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjawal-prasad/" title="LinkedIn Profile">
-    <img width="90" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+    <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
   </a>
 </p>
 
