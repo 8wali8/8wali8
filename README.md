@@ -37,35 +37,43 @@
 
 ### 📌 Featured Projects  
 
-<div width="100%" align="center">  
-  <a align="left" href="https://github.com/nasa/ExoMiner" title="ExoMiner (NASA)">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nasa&repo=ExoMiner&theme=react&border_color=61dafb&border_radius=10">
-  </a>  
+<br>  
 
-  <a align="right" href="https://github.com/blur288/FE" title="Facial Expression Detection">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=blur288&repo=FE&theme=react&border_color=61dafb&border_radius=10">
+<div align="center">  
+  <a href="https://github.com/nasa/ExoMiner" title="ExoMiner (NASA)">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nasa&repo=ExoMiner&theme=react&border_color=61dafb&border_radius=10">
   </a>  
 </div>  
 
-<br/><br/><br/><br/><br/><br/>  
-
 <p align="center">  
-  🔹 **ExoMiner (NASA):** Contributed to deep learning model development for exoplanet classification using neural networks.  
-  <br>  
-  🔹 **Facial Expression Detection (FE):** Built and trained a computer vision model for real-time emotion recognition.  
+  🚀 **ExoMiner (NASA):** Contributed to the development of a deep learning model for **exoplanet classification**, enhancing accuracy by integrating neural architectures and data preprocessing pipelines.  
 </p>  
 
-<div width="100%" align="center">  
-  <a align="left" href="https://github.com/Sanjana-SKS/MaraHackathon25" title="MaraHackathon25">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-SKS&repo=MaraHackathon25&theme=react&border_color=61dafb&border_radius=10">
+<br>  
+
+<div align="center">  
+  <a href="https://github.com/blur288/FE" title="Facial Expression Detection">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=blur288&repo=FE&theme=react&border_color=61dafb&border_radius=10">
   </a>  
 </div>  
 
-<br/><br/><br/><br/><br/><br/>  
+<p align="center">  
+  🎭 **Facial Expression Detection (FE):** Designed and trained a **computer vision model** using deep learning to classify human emotions in real-time, leveraging CNN architectures for improved recognition performance.  
+</p>  
+
+<br>  
+
+<div align="center">  
+  <a href="https://github.com/Sanjana-SKS/MaraHackathon25" title="MaraHackathon25">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-SKS&repo=MaraHackathon25&theme=react&border_color=61dafb&border_radius=10">
+  </a>  
+</div>  
 
 <p align="center">  
-  🔹 **MaraHackathon25:** Collaborated in a team hackathon project, developing full-stack features for data-driven solutions.  
+  💡 **MaraHackathon25:** Collaborated in a team setting to develop a **full-stack prototype** addressing real-world data challenges, implementing backend APIs and frontend features under a 36-hour deadline.  
 </p>  
+
+<br>  
 
 <h4 align="center">  
   <a href="https://github.com/ujjawal-prasad?tab=repositories" title="Show More">🔎 Show More 🔍</a>  
