@@ -67,7 +67,7 @@
 </div>  
 
 <p align="center">  
-  **ExoMiner (NASA):** Contributed to the development of a deep learning model for **exoplanet classification**, enhancing accuracy by integrating neural architectures and data preprocessing pipelines.  
+  ExoMiner (NASA): Contributed to the development of a deep learning model for **exoplanet classification**, enhancing accuracy by integrating neural architectures and data preprocessing pipelines.  
 </p>  
 
 <br>  
@@ -79,7 +79,7 @@
 </div>  
 
 <p align="center">  
-  **Facial Expression Detection (FE):** Designed and trained a **computer vision model** using deep learning to classify human emotions in real-time, leveraging CNN architectures for improved recognition performance.  
+  Facial Expression Detection (FE): Designed and trained a computer vision model using deep learning to classify human emotions in real-time, leveraging CNN architectures for improved recognition performance.  
 </p>  
 
 <br>  
@@ -91,7 +91,7 @@
 </div>  
 
 <p align="center">  
-  **MaraHackathon25:** Collaborated in a team setting to develop a **full-stack prototype** addressing real-world data challenges, implementing backend APIs and frontend features under a 36-hour deadline.  
+  MaraHackathon25: Collaborated in a team setting to develop a full-stack prototype addressing real-world data challenges, implementing backend APIs and frontend features under a 36-hour deadline.  
 </p>  
 
 <br>  
