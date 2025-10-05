@@ -8,11 +8,13 @@
 ---
 
 ### About Me  
--  Computer Science & Statistics student at Purdue University (Class of 2027)  
--  Actively seeking **Summer 2026 Software Engineering Internships**  
--  Passionate about **AI/ML, backend systems, and scalable applications**  
--  Currently learning **Rust, React, and advanced machine learning**  
--  Open to collaborations on impactful projects in **AI, full-stack dev, and data engineering**  
+- Computer Science & Statistics student at Purdue University (Class of 2027)
+- Actively searching for Summer 2026 Software Engineering Internships across AI, systems, data, and full-stack development
+- Passionate about building intelligent, scalable, and user-focused software systems
+- Experienced in backend systems, data engineering, and deep learning, with growing interest in modern front-end frameworks like React and Next.js
+- Excited by technologies at the intersection of AI, cloud computing, and robotics
+- Currently learning Rust, distributed systems, and advanced machine learning
+- Open to collaborating on impactful projects that combine AI, full-stack development, and system design
 
 ---
 
