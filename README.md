@@ -85,24 +85,12 @@ Check out my portfolio for information on my skills, projects, and experiences!
 
 <p align="left">  
   Facial Expression Detection (FE): Designed and trained a computer vision model using deep learning to classify human emotions in real-time, leveraging CNN architectures for improved recognition performance.  
-</p>  
-
-<br>  
-
-<div align="left">  
-  <a href="https://github.com/Sanjana-SKS/MaraHackathon25" title="MaraHackathon25">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-SKS&repo=MaraHackathon25&theme=react&border_color=61dafb&border_radius=10">
-  </a>  
-</div>  
-
-<p align="left">  
-  MaraHackathon25: Collaborated in a team setting to develop a full-stack prototype addressing real-world data challenges, implementing backend APIs and frontend features under a 36-hour deadline.  
-</p>  
+</p>   
 
 <br>  
 
 <h4 align="left">  
-  <a href="https://github.com/8wali8?tab=repositories" title="Show More">🔎 Show More 🔍</a>  
+  <a href="[https://github.com/8wali8?tab=repositories](https://ujjawal-prasad-portfolio-website.vercel.app/)" title="More projects on my portfolio!">More projects on my portfolio!</a>  
 </h4>  
 
 ---
