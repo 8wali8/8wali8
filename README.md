@@ -9,7 +9,7 @@
 ### Portfolio  
 Check out my portfolio for information on my skills, projects, and experiences! 
 
-[ujjawal-prasad-portfolio-website](https://ujjawal-prasad-portfolio-website.vercel.app/)
+[ujjawalprasad.com](ujjawalprasad.com)
 
 ### About Me  
 - Computer Science & Statistics student at Purdue University (Class of 2027)
