@@ -88,12 +88,12 @@ Check out my portfolio for information on my skills, projects, and experiences!
 </p>   
 
 <br>  
-
 <h4 align="left">  
-  <a href="[[https://github.com/8wali8?tab=repositories](https://ujjawal-prasad-portfolio-website.vercel.app/)](https://ujjawal-prasad-portfolio-website.vercel.app/)" title="More projects on my portfolio!">More projects on my portfolio!</a>  
+  <a href="https://ujjawal-prasad-portfolio-website.vercel.app/" title="More projects on my portfolio!">More projects on my portfolio!</a>  
 </h4>  
 
 ---
+
 
 ### GitHub Stats  
 
