@@ -12,7 +12,7 @@ Check out my portfolio for information on my skills, projects, and experiences!
 [ujjawalprasad.com](https://www.ujjawalprasad.com)
 
 ### About Me  
-- Computer Science & Statistics student at Purdue University (Class of 2027)
+- Computer Science & Statistics student at Purdue University (2024-2027)
 - Actively searching for Summer 2026 Software Engineering Internships across AI, systems, data, and full-stack development
 - Passionate about building intelligent, scalable, and user-focused software systems
 - Experienced in backend systems, data engineering, and deep learning, with growing interest in modern front-end frameworks like React and Next.js
