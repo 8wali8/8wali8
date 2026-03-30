@@ -34,27 +34,25 @@ Explore more of my work here:
 
 <div align="left">
   <a href="https://github.com/8wali8/StreamSense-Production" title="StreamSense">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=8wali8&repo=StreamSense-Production&theme=react&border_color=61dafb&border_radius=10" />
+    <img src="https://img.shields.io/badge/Project-StreamSense-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="StreamSense" />
   </a>
 </div>
 
 <p align="left">
-  <b>StreamSense</b> — Real-time analytics platform built with distributed microservices for high-throughput event ingestion, streaming pipelines, and live data delivery.
+  <b>StreamSense</b> — Built a real-time distributed analytics platform for high-throughput event processing, streaming pipelines, and live data delivery.
 </p>
 
 <br>
 
 <div align="left">
   <a href="https://github.com/nasa/ExoMiner" title="ExoMiner (NASA)">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nasa&repo=ExoMiner&theme=react&border_color=61dafb&border_radius=10" />
+    <img src="https://img.shields.io/badge/NASA-ExoMiner-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="ExoMiner" />
   </a>
 </div>
 
 <p align="left">
-  <b>ExoMiner (NASA)</b> — Contributed to deep learning research for exoplanet classification, working on model-driven approaches to scientific data analysis.
+  <b>ExoMiner (NASA)</b> — Worked on deep learning methods for scientific data analysis and exoplanet classification in a research setting.
 </p>
-
-<br>
 
 ### What I Like Working On
 - Performance-sensitive backend systems
@@ -83,13 +81,6 @@ Explore more of my work here:
 ---
 
 ### GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=8wali8&show_icons=true&theme=react&border_color=61dafb&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8wali8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=8wali8&theme=react-dark&hide_border=true&bg_color=0D1117&color=61dafb&line=61dafb&point=ffffff" />
